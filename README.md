@@ -1,7 +1,9 @@
 ﻿
 # Update JSON With New Config File
 
-Function which update a json with a text file containing every wanted update 
+Function which update a json with a text file containing every wanted update.
+The project statement is the file named *"coding-test.md"*.
+
 
 ## Summary
 
@@ -30,6 +32,8 @@ Function which update a json with a text file containing every wanted update
 │   ├── update_2.txt
 │   └── update_3.txt
 ├── scripts.ts			# main script
+├── coding-text.md		# project statement
+├── README.md			# this file :D
 └── configuration.json	# main config file
 ```
 
