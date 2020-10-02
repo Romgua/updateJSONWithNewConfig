@@ -1,0 +1,17 @@
+{
+  "page1": {
+    "initialSettings": {
+      "coordinates": [
+        24,
+        30
+      ],
+      "color": "green"
+    },
+    "available-filters": {
+      "name-filter": {
+        "column": "lastName",
+        "sort": "desc"
+      }
+    }
+  }
+}
